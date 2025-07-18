@@ -236,13 +236,12 @@ For optimal performance with TakuNet, we recommend performing a fresh OS install
 If you find this code useful for your research, please consider citing:
 
 ```bibtex
-@InProceedings{Rossi_2025_WACV,
-    author    = {Rossi, Daniel and Borghi, Guido and Vezzani, Roberto},
-    title     = {TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios},
-    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV) Workshops},
-    month     = {February},
-    year      = {2025},
-    pages     = {376-385}
+@inproceedings{rossi2025takunet,
+  title={TakuNet: an Energy-Efficient CNN for Real-Time Inference on Embedded UAV systems in Emergency Response Scenarios},
+  author={Rossi, Daniel and Borghi, Guido and Vezzani, Roberto},
+  booktitle={Proceedings of the Winter Conference on Applications of Computer Vision},
+  pages={376--385},
+  year={2025}
 }
 ```
 
